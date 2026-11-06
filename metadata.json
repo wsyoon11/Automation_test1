@@ -1,0 +1,6 @@
+{
+  "name": "AI/SW 융합혁신사업단 비교과 프로그램 통합 운영관리 시스템",
+  "description": "대학 사업단 비교과 프로그램의 기획·신청, 심사 승인, 학생 모집 및 참여, 출석 관리, 실적 보고, 성과 통계 및 보고서 출력을 전주기로 지원하는 통합 운영관리 웹 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
